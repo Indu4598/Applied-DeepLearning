@@ -30,6 +30,6 @@ The categorical variables should be one-hot encoded. However, in out data, all t
 <img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/distribution.png" width="200" />
 <img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/missing.png" width="200" />
 <img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/binary.png" width="200" />
-<img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/mclass.png" width="500" />
+<img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/mclass.png" width="200" />
 <img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/Binary.png" width="500" />
 <img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/Multiclass.png" width="500" />
