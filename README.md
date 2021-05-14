@@ -26,10 +26,13 @@ The categorical variables should be one-hot encoded. However, in out data, all t
 3.	Data Imbalance: From figure 1, the dataset is imbalanced in terms of target variable. In this study imbalance is handled using two techniques: 
 (i) Merge all the disease classes into one class, (ii) combine disease class into smaller sub-groups based on medical terminology. 
 
+<p float="left">
+  <img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/distribution.png" width="200" />
+  <img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/missing.png" width="200" />
+  <img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/binary.png" width="200" />
+  <img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/mclass.png" width="200" />
+</p>
 
-<img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/distribution.png" width="200" />
-<img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/missing.png" width="200" />
-<img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/binary.png" width="200" />
-<img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/mclass.png" width="200" />
-<img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/Binary.png" width="500" />
-<img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/Multiclass.png" width="500" />
+<img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/Binary.png" width="800" />
+<img src="https://github.com/Indu4598/Applied-DeepLearning/blob/main/Multiclass.png" width="800" />
+
